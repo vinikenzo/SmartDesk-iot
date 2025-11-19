@@ -79,7 +79,6 @@ smartdesk/salaA/desk03/sensor
 
 ## 3. Fluxo no Node-RED
 
-<img width="1360" height="682" alt="FluxoNodered" src="https://github.com/user-attachments/assets/d93bf759-7543-44e2-8b46-122c555a80e7" />
 
 O fluxo Node-RED segue esta estrutura:  
 MQTT In (3 tópicos)  
