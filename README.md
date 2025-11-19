@@ -83,10 +83,9 @@ smartdesk/salaA/desk03/sensor
 
 O fluxo Node-RED segue esta estrutura:  
 MQTT In (3 tópicos)  
-
-↓ 
-JSON (converter texto → objeto)
-↓
+↓  
+JSON (converter texto → objeto)  
+↓  
 Switch (filtra desk01, desk02, desk03)  
 ↓  
 Text → Function (formatação)  
